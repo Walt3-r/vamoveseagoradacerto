@@ -1,0 +1,42 @@
+body{ 
+    background-image:url(" https://static.vecteezy.com/system/resources/previews/000/294/800/non_2x/vector-background-design-with-gears-on-green.jpg"); 
+      font-family:Arial;
+       background-size: auto 100hv;
+      height: 100vh;  
+  }
+  
+  .menu{
+    background-color:#E0FFFF;
+    
+  }
+  
+  a{
+    text-decoration:none;
+    color:orangered;
+  }
+  
+  a:hover{
+    text-decoration:underline;
+    color:limegreen;
+  }
+  
+  .menu li{
+    list-style:none;
+  }
+  
+  .menu ul{
+    display:flex;
+    justify-content:space-around;
+  }
+  
+  .site-title{
+    text-align:center;
+    color:	#FF4500;
+  }
+  
+  .site-subtitle{
+    text-align:center;
+    font-style:italic;
+    color:orangered;
+  }
+  
